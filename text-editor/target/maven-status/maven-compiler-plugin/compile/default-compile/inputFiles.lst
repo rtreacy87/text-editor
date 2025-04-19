@@ -1,0 +1,13 @@
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/EditorMenuBar.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/model/TextBuffer.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/MainWindow.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/EditorTextArea.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/LineNumberArea.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/Launcher.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/TextEditorApp.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/controller/FileController.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/model/Document.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/StatusBar.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/controller/DocumentController.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/model/Cursor.java
+/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/App.java

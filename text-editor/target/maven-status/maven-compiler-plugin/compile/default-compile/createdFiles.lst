@@ -1,0 +1,16 @@
+com/texteditor/controller/DocumentController.class
+com/texteditor/view/LineNumberArea.class
+com/texteditor/model/TextBuffer.class
+com/texteditor/model/Cursor.class
+com/texteditor/TextEditorApp.class
+com/texteditor/view/StatusBar.class
+com/texteditor/controller/FileController$RecentFilesListener.class
+com/texteditor/view/EditorTextArea.class
+com/texteditor/view/EditorMenuBar.class
+com/texteditor/view/MainWindow.class
+com/texteditor/model/Document.class
+com/texteditor/Launcher.class
+com/texteditor/App.class
+com/texteditor/model/Document$DocumentListener.class
+com/texteditor/controller/FileController.class
+com/texteditor/model/Cursor$CursorListener.class
