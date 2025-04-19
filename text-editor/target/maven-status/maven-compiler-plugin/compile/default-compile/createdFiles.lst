@@ -5,9 +5,11 @@ com/texteditor/model/Cursor.class
 com/texteditor/TextEditorApp.class
 com/texteditor/view/StatusBar.class
 com/texteditor/controller/FileController$RecentFilesListener.class
+com/texteditor/SimpleApp.class
 com/texteditor/view/EditorTextArea.class
 com/texteditor/view/EditorMenuBar.class
 com/texteditor/view/MainWindow.class
+module-info.class
 com/texteditor/model/Document.class
 com/texteditor/Launcher.class
 com/texteditor/App.class
