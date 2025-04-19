@@ -1,4 +1,3 @@
-/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/SimpleApp.java
 /Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/EditorMenuBar.java
 /Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/model/TextBuffer.java
 /Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/MainWindow.java
@@ -12,4 +11,3 @@
 /Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/view/StatusBar.java
 /Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/controller/DocumentController.java
 /Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/model/Cursor.java
-/Users/ryan/text-editor/text-editor/src/main/java/com/texteditor/App.java

@@ -1,0 +1,4 @@
+--patch-module
+com.texteditor=_
+--add-reads
+com.texteditor=ALL-UNNAMED
